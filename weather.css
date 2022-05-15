@@ -21,7 +21,7 @@ height: 30px;
 max-width: 280px;
 outline: black;
 color: white;
-margin-bottom: 150px;
+margin-bottom: 100px;
 font-weight: bolder ;
 }
 .date{
@@ -42,7 +42,7 @@ font-weight: bold ;
 margin-left: 50px;
 }
 .weather{
-margin-top: 150px;
+
 text-align: center;
 font-size: 60px;
 font-weight: bolder;
@@ -70,15 +70,8 @@ text-shadow: 3px 1px 3px rgba(202, 236, 234, 0.13);
 .box{
 text-align: center;
 margin-left: 50px;
-margin-top:50px ;
+
 font-size: 30px;
 font-weight: bold;
 color: wheat ;
-}
-.box2{
-text-align: right;
-margin-right: 50px;
-margin-top:50px ;
-font-size: 30px;
-font-weight: bolder;
 }

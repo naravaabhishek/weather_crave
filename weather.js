@@ -12,7 +12,7 @@ function setQuery(evt) {
     //console.log(searchbox.value);
   }
 }
-
+//AJAX  API 
 function getResults (query) {
     var request = new XMLHttpRequest();
 request.open('GET',"https://api.openweathermap.org/data/2.5/weather?q="+query+"&units=metric&appid=b739d23c5b442dc2f494c8a0c78af77f",true)
